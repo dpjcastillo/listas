@@ -1,0 +1,82 @@
+#EXTINF:0 type="stream" channelId="-1" group="Peliculas" logo="https://graph.facebook.com/2135035553436599/picture?width=320&height=320" tvg-country="PE", Bella Abanquina TV (Apurimac) [Not 24/7]
+https://v4.tustreaming.cl/bellatv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Peliculas" logo="https://graph.facebook.com/OficialKBO/picture?width=320&height=320" tvg-country="PE", KBO Quillabamba [Not 24/7]
+https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Peliculas" logo="https://graph.facebook.com/CajamarcaTV/picture?width=320&height=320" tvg-country="PE", Cajamarca TV (480p) [Not 24/7]
+https://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Peliculas" logo="https://graph.facebook.com/diariohechicera/picture?width=320&height=320" tvg-country="PE", Diario Hechicera (Tumbes) (720p) [Not 24/7]
+https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8
+#EXTINF:-1 tvg-id="CajamarcaTV.pe" tvg-country="PE" group="Peliculas" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/CajamarcaTV/picture?width=320&height=320" group-title="Local",Cajamarca TV (480p) [Not 24/7]
+https://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Peliculas" logo="https://graph.facebook.com/milleniumradiotv/picture?width=320&height=320" tvg-country="PE", Millenium 109 FM (Lamas) [Not 24/7]
+https://5ee0faac3bbae.streamlock.net/millenium/millenium/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Peliculas" logo="https://graph.facebook.com/OKTelevision.pe/picture?width=320&height=320" tvg-country="PE", OK TeVe (Yurimaguas) (720p) [Not 24/7]
+https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3127" group="Peliculas" logo="https://graph.facebook.com/104338684346756/picture?width=320&height=320" tvg-country="PE", Imagen Televisión (Rioja) (720p) [Not 24/7]
+http://191.97.56.183:1935/imagentv/imagentv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Peliculas" logo="https://graph.facebook.com/GrupoLimaLive/picture?width=320&height=320" tvg-country="PE", LimaLive [Not 24/7]
+https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+#EXTINF:-1 tvg-id="704" tvg-name="Central TV Chosica" group="Peliculas" tvg-logo="https://www.m3u.cl/logo/704_Central_TV_Chosica.png", Central TV Chosica | PE
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="689" tvg-name="Mega TV" group="Peliculas" tvg-logo="https://www.m3u.cl/logo/689_Mega_TV.png", Mega TV | PE
+https://media2.cdnlayer.biz:8081/8008/index.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="Peliculas" name="Planetatv Movie" logo="https://www.m3u.cl/logo/1016_Planetatv_Movie.png", Planetatv Movie * | CL
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="694" tvg-name="Antares TV" group="Peliculas" tvg-logo="https://www.m3u.cl/logo/694_Antares_TV.png", Antares TV | PE
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="4659" name="CINE.AR" logo="https://www.m3u.cl/logo/208_CINE_AR.png", CINE.AR | AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="Series" logo="https://graph.facebook.com/huachotvperu/picture?width=320&height=320" tvg-country="PE", Huacho Perú TV [Not 24/7]
+https://tv.portalexpress.es:3124/live/hchoperutvlive.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Series" name="Chavo TV" logo="https://www.m3u.cl/logo/46_Chavo_TV.png", Chavo TV * | CL
+https://videostreaming.cloudserverlatam.com:443/ElChavotv/ElChavotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="488" group="Series" tvg-name="Anime Zone TV" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png", Anime Zone TV | AR
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="4772" name="Canal Capital" group="Series" logo="https://www.m3u.cl/logo/495_Canal_Capital.png", Canal Capital | CO
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="Variedad" logo="https://i.imgur.com/7hP4nps.png" tvg-country="PE", BHTV (720p) [Not 24/7]
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Variedad" logo="https://graph.facebook.com/Asiritv/picture?width=320&height=320" tvg-country="PE", AsiriTV (Lima) [Not 24/7]
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 tvg-id="701" tvg-name="TV Cosmos 15.1" group="Variedad" tvg-logo="https://www.m3u.cl/logo/701_TV_Cosmos_15_1.png", TV Cosmos 15.1 | PE
+https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="Musica" logo="https://graph.facebook.com/CentralTVperuLima/picture?width=320&height=320" tvg-country="PE", Central TV (Chosica) (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Musica" logo="https://graph.facebook.com/clipstv/picture?width=320&height=320" tvg-country="PE", ClipsTV (Ica) [Not 24/7]
+https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Musica" logo="https://graph.facebook.com/1169958533100680/picture?width=320&height=320" tvg-country="PE", DMJ (Cuzco) [Not 24/7]
+https://v4.tustreaming.cl/s1tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Musica" logo="https://graph.facebook.com/LaKaribena/picture?width=320&height=320" tvg-country="PE", Karibeña (720p) [Not 24/7]
+https://cu.onliv3.com/livevd/user1.m3u8
+#EXTINF:-1 tvg-id="978" tvg-name="DMJ" group="Musica" tvg-logo="https://www.m3u.cl/logo/978_DMJ.png", DMJ * | PE
+https://v4.tustreaming.cl:/s1tv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="38" tvg-name="Best Cable Music" group="Musica" tvg-logo="https://www.m3u.cl/logo/38_Best_Cable_Music.jpg", Best Cable Music | PE
+https://tv.siete.us:19360/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="41" tvg-name="Hatun TV" group="Musica" tvg-logo="https://www.m3u.cl/logo/41_Hatun_TV.jpg", Hatun TV | PE
+https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="40" tvg-name="Mas Cumbia" group="Musica" tvg-logo="https://www.m3u.cl/logo/40_Mas_Cumbia.png", Mas Cumbia | PE
+https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" group="Musica" tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png", Mundo de la Musica TV | CL
+https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="688" tvg-name="Vision TV" group="Musica" tvg-logo="https://www.m3u.cl/logo/688_Vision_TV.png", Vision TV | PE
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="496" tvg-name="Canal IPE" group="Infantil" tvg-logo="https://www.m3u.cl/logo/496_Canal_IPE.png", Canal IPE | PE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="Cultural" logo="https://i.imgur.com/2mSwwpH.png" tvg-country="PE", Cultura 24 (720p)
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+#EXTINF:-1 tvg-id="806" tvg-name="HispanTV" group="Documentales" tvg-logo="https://www.m3u.cl/logo/806_HispanTV.png", HispanTV | IR
+https://live.presstv.ir/live/smil:live.smil/hispan.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="686" tvg-name="TVperuanisima" group="Documentales" tvg-logo="https://www.m3u.cl/logo/686_TVperuanisima.png", TVperuanisima | PE
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" group="Noticias" logo="https://i.imgur.com/A1xzjOI.png" tvg-country="ES;HISPAM", DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Noticias" logo="https://graph.facebook.com/Exitosanoticias/picture?width=320&height=320" tvg-country="PE", Exitosa TV (720p)
+https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF:-1 tvg-id="1065" tvg-name="ATV" group="Noticias" tvg-logo="https://www.m3u.cl/logo/1065_ATV.png", ATV | PE
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1066" tvg-name="ATV+" group="Noticias" tvg-logo="https://www.m3u.cl/logo/1066_ATV_.png", ATV+ | PE
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" group="Noticias" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png", UCL Televisión LATAM | UY
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="692" tvg-name="Best Cable Sports" group="Deportes" tvg-logo="https://www.m3u.cl/logo/692_Best_Cable_Sports.png", Best Cable Sports | PE
+https://tv.siete.us:19360/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
